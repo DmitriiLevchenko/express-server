@@ -1,0 +1,4 @@
+start - start bot 
+help - help menu
+stop - stop bot
+menu - main menu selection of the desired function
